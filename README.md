@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryujin-Afk
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and Android App Development.
 - 💞️ I’m looking to collaborate on interessting projects.
 
 <!---
